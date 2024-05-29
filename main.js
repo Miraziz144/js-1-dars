@@ -1,16 +1,4 @@
-// let stakan = "To'la";
-// stakan = "Yarim"
-// stakan= "bo'sh"
 
-
-// var setka = "Mahsulotlar"
-// setka = 12
-
-
-// const ism = "Miraziz"
-// console.log(setka);
-
-// alert(ism)
 
  let ism =  prompt("Ismingizni yoizng")
 
